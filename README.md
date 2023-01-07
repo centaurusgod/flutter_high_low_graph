@@ -4,3 +4,7 @@ The random values actually represnt heartrate. It is to demonstrate if a smart d
 a workout session or a day on a certain day of a week of certain date, then s/he needs to know the maximum and minimum heartbeat
 that was measured. Maximum representing if the person was working out and minimum representing if person was calm, or sleeping.
 This is also to test when we work with databases like MongoDB, firebase etc when we have to work with json and map datas.
+
+
+![preview](https://user-images.githubusercontent.com/69569419/211127371-a074a5ff-e4cb-47c9-822a-6409b51e7f7c.png)
+
